@@ -1,2 +1,2 @@
 # Double-opportunity-Particle-Swarm-Optimization
-ouer work based on BBO on edge computing
+our work based on BBO on edge computing
